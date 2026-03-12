@@ -2,3 +2,26 @@ index.html
 content.html
 contact.html
 style.css
+<!DOCTYPE html>
+<html>
+<head>
+<title>Football World</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="content.html">Main Content</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<h1>Welcome to Football World</h1>
+
+<p>Football is one of the most popular sports in the world.</p>
+
+<img src="football1.jpg" width="400">
+
+</body>
+</html>
